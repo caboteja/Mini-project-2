@@ -411,20 +411,6 @@ def terms_txt (aid_list, title_list, desc_list):
         other_special_removal_title_list.append(temp)
         temp = []
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-             
     #print(split_title_list) #debug line
      
      
